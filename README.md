@@ -13,6 +13,6 @@ http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html#skl
 
 с использованием тестовых наборов данных:
 
-dataset1.csv
-dataset2.csv
-dataset3.csv
+- dataset1.csv
+- dataset2.csv
+- dataset3.csv
